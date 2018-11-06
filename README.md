@@ -1,4 +1,4 @@
-
+https://hackmd.io/SfrJm4q5TDS3LV9IeXcuaw?both
 # 資訊學科能力競賽筆試 筆記
 ## 有號數字 表示法(Signed Number Representations)
 ### 符號大小 (Sign and Magnitude)
@@ -443,8 +443,12 @@ NFC被用於非接觸支付系統，如同過去的信用卡與電子票券智�
 
 **與電腦病毒不同的是，電腦蠕蟲不需要附在別的程式內，可能不用使用者介入操作也能自我複製或執行**。電腦蠕蟲未必會直接破壞被感染的系統，卻幾乎都對網路有害。電腦蠕蟲可能會執行垃圾程式碼以發動分散式阻斷服務攻擊，令電腦的執行效率極大程度降低，從而影響電腦的正常使用；可能會損毀或修改目標電腦的檔案；亦可能只是浪費頻寬。
 
+參考 : https://zh.wikipedia.org/wiki/%E9%9B%BB%E8%85%A6%E8%A0%95%E8%9F%B2
+
 ## 虛擬記憶體（virtual memory）
 虛擬記憶體是電腦系統記憶體管理的一種技術。**它使得應用程式認為它擁有連續可用的記憶體（一個連續完整的位址空間），而實際上，它通常是被分隔成多個實體記憶體碎片**，還有部分暫時儲存在外部磁碟記憶體上，在需要時進行資料交換。與沒有使用虛擬記憶體技術的系統相比，使用這種技術的系統使得大型程式的編寫變得更容易，對真正的實體記憶體（例如RAM）的使用也更有效率。
+
+參考 : https://zh.wikipedia.org/wiki/%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98
 
 ## 動態主機設定協定（Dynamic Host Configuration Protocol，DHCP）
 動態主機設定協定（英語：Dynamic Host Configuration Protocol，DHCP）是一個區域網路的網路協定，使用UDP協定工作，主要有兩個用途：
@@ -452,7 +456,11 @@ NFC被用於非接觸支付系統，如同過去的信用卡與電子票券智�
 * 用於內部網路或網路服務供應商自動分配IP位址給用戶
 * 用於內部網路管理員作為對所有電腦作中央管理的手段
 
+參考 : https://zh.wikipedia.org/wiki/%E5%8A%A8%E6%80%81%E4%B8%BB%E6%9C%BA%E8%AE%BE%E7%BD%AE%E5%8D%8F%E8%AE%AE
+
 ## 用戶資料報協定（User Datagram Protocol，UDP）
 **用戶資料報協定（英語：User Datagram Protocol，縮寫為UDP）**，又稱**使用者資料包協定**，是一個簡單的面向資料報的傳輸層協定，正式規範為RFC 768。
 
 在TCP/IP模型中，UDP為網路層以上和應用層以下提供了一個簡單的埠。UDP只提供資料的不可靠傳遞，它一旦把應用程式發給網路層的資料傳送出去，就不保留資料備份（所以UDP有時候也被認為是不可靠的資料報協定）。**UDP在IP資料報的頭部僅僅加入了復用和資料校驗（欄位）**。
+
+參考 : https://zh.wikipedia.org/wiki/%E5%8A%A8%E6%80%81%E4%B8%BB%E6%9C%BA%E8%AE%BE%E7%BD%AE%E5%8D%8F%E8%AE%AE
