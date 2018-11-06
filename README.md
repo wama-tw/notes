@@ -1,4 +1,3 @@
-https://hackmd.io/SfrJm4q5TDS3LV9IeXcuaw?both
 # 資訊學科能力競賽筆試 筆記
 ## 有號數字 表示法(Signed Number Representations)
 ### 符號大小 (Sign and Magnitude)
