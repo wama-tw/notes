@@ -1,5 +1,5 @@
 # 資訊學科能力競賽筆試 筆記
-## 有號數字 表示法(Signed Number Representations)
+## 有號數字 表示法 (Signed Number Representations)
 ### 符號大小 (Sign and Magnitude)
 > 用一個位元 (bit) 來表示 正(+)、負(-)
 > 符號大小 (Sign and Magnitude) 表示法的 +0、-0 不一樣
