@@ -458,7 +458,7 @@ NFC被用於非接觸支付系統，如同過去的信用卡與電子票券智�
 參考 : https://zh.wikipedia.org/wiki/%E5%8A%A8%E6%80%81%E4%B8%BB%E6%9C%BA%E8%AE%BE%E7%BD%AE%E5%8D%8F%E8%AE%AE
 
 ## 用戶資料報協定（User Datagram Protocol，UDP）
-**用戶資料報協定（英語：User Datagram Protocol，縮寫為UDP）**，又稱**使用者資料包協定**，是一個簡單的面向資料報的傳輸層協定，正式規範為RFC 768。
+**用戶資料報協定（User Datagram Protocol，UDP）**，又稱**使用者資料包協定**，是一個簡單的面向資料報的傳輸層協定，正式規範為RFC 768。
 
 在TCP/IP模型中，UDP為網路層以上和應用層以下提供了一個簡單的埠。UDP只提供資料的不可靠傳遞，它一旦把應用程式發給網路層的資料傳送出去，就不保留資料備份（所以UDP有時候也被認為是不可靠的資料報協定）。**UDP在IP資料報的頭部僅僅加入了復用和資料校驗（欄位）**。
 
